@@ -68,6 +68,12 @@
 
 <p align="center">Always remember: being busy != being happy</p>
 
+<div align="center">
+<a href="https://user-badge.committers.top/sri_lanka/senuka-b">
+<img align="center" src="https://user-badge.committers.top/sri_lanka/senuka-b.svg" alt="committers.top badge" />
+  
+</div>
+
 ###
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
