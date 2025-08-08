@@ -68,11 +68,6 @@
 
 <p align="center">Always remember: being busy != being happy</p>
 
-<div align="center">
-<a href="https://user-badge.committers.top/sri_lanka/senuka-b">
-<img align="center" src="https://user-badge.committers.top/sri_lanka/senuka-b.svg" alt="committers.top badge" />
-  
-</div>
 
 ###
 
